@@ -8,7 +8,7 @@
 % Derivative To Get Your Change In Y (Your Y Step). You Add This Y Step
 % Onto Your Current Y Giving You Your Final Y Coordinate. You Then Plot
 % These Points And Start The Process Over Again Till You Reach Your Desired
-% Final X Coordinate. 
+% Final X Coordinate.
 
 fprintf("Welcome To The Euler's Method Solver For LA3\n");
 fprintf("Open All Graphs In Full Screen\n");
